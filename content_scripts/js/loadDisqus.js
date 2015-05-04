@@ -23,5 +23,5 @@ var loadExternalScript = function (url) {
 
 var disqus_shortname = 'penncoursecomments';
 
-loadExternalScript('https://penncoursereview.disqus.com/embed.js');
-loadExternalScript('https://penncoursereview.disqus.com/count.js');
+loadExternalScript('https://penncoursecomments.disqus.com/embed.js');
+loadExternalScript('https://penncoursecomments.disqus.com/count.js');
